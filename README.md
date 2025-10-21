@@ -61,11 +61,9 @@ Clone the repository:
 git clone https://github.com/yourusername/celebrato-backend.git
 cd celebrato-backend
 
-
 Create MySQL Database:
 
 CREATE DATABASE celebrato_db;
-
 
 Update application.properties:
 
